@@ -28,7 +28,7 @@ This image shows the epidemiological triad. This represents the three things req
 
 ------------------------------------------------------------------------
 
-![ss_table.png](https://github.com/anyadoc/audiseco/blob/main/ss_table.png?raw=true){alt="ss_table.png"}
+![ss_table.png](https://github.com/anyadoc/audiseco/blob/main/ss_table.png?raw=true)
 
 WILD 5200/6200; FORY 7200\
 Sep 15, 2025\
@@ -37,19 +37,21 @@ Worksheet 2: Sample size for disease detection\
 1) Find the sample size necessary to detect a disease at or above 5% prevalence in a\
 herd of 5000 deer. The desired level of confidence is 95%.
 
-**59 Deer**
+n= 59
 
 \
 2) Using the hypergeometric distribution, compare the sample size requirements for the\
-following scenarios: \
+following scenarios:\
 a) 95% confidence in detecting a disease at 1% prevalence in a large population
 
-**299**
+n= 299
 
 \
 b) 99% confidence in detecting a disease at 2% prevalence in a large population
 
-**229**
+n= 229
+
+The sample size requirement of a) is larger than that of b)
 
 \
 3) You sample 300 deer from a high fenced facility that has a herd of 4000. None of the\
@@ -57,4 +59,4 @@ b) 99% confidence in detecting a disease at 2% prevalence in a large population
 finding, you are 95% confident that the prevalence of exposure to EHD in this facility is\
 \_\_\_\_\_ (\<, =, \>) \_\_\_\_%. (5 points)
 
-**95% confident the prevalence is \<1%**
+95% confident the prevalence is \< 1%
