@@ -60,3 +60,311 @@ finding, you are 95% confident that the prevalence of exposure to EHD in this fa
 \_\_\_\_\_ (\<, =, \>) \_\_\_\_%. (5 points)
 
 95% confident the prevalence is \< 1%
+
+------------------------------------------------------------------------
+
+WILD 5200/6200; FORY 7200\
+Sep 24, 2025\
+Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+Recovered elk are immune (not susceptible) to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
+
+Show your work.
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. (9 points)
+
+06/12/25
+
+New cases: 5
+
+Susceptible: 56-1-4 = 51
+
+Incidence = 5/51= 0.098 = 9.8% per day
+
+06/14/25
+
+New cases: 2
+
+Susceptible: 56-12= 44
+
+Incidence = 2/44 = 0.0455 = 4.6% per day
+
+06/15/25
+
+New Cases: 0
+
+Susceptible: 56-14 = 42
+
+Incidence: 0/42 = 0% per day
+
+b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. (5 points)
+
+06/13/25: 12 ill
+
+12/56 = 0.214 = 21.4 %
+
+06/16/25: 5 ill
+
+5/56 = 0.089 = 8.9%
+
+The unit for incidence is % of the population at a specific point in time
+
+c\) On which day is the prevalence same as the incidence (except the units)? (3 points)
+
+On 06/10/25
+
+Prevalence = 1/56 = 17.9 %
+
+Incidence = 1/56 = 17.9%
+
+d\) On which day is the incidence lowest? (3 points)
+
+Incidence is the lowest on 06/15/25 and 06/16/25 because there are no new cases.
+
+------------------------------------------------------------------------
+
+Midterm Exam
+
+October 3, 2025
+
+FORY 7200
+
+Disease Ecology Midterm 
+
+**1**. True or False. If false, explain why the statement is incorrect                                     (**12 points**). (Used various lectures) 
+
+a\. Compared to macroparasites, microparasites have a shorter generation time and do not reproduce within the host.
+
+**False.** Microparisites do reproduce within the hosts. Macroparasites generally do not multiply within a single host. 
+
+b\. Using disease models, we can make accurate predictions of how a disease will spread in a real-world host population. 
+
+**False.** Models can give scenarios and ranges but real world scenarios have different uncertain factors and errors. Disease models can be helpful for predictions but they are not always reliable and accurate. 
+
+c\. Chagas disease is a protozoal disease that is commonly transmitted by the triatomine bug (Kissing bug). It can also be transmitted by consumption of contaminated food or beverages (feces of infected triatomine bugs). Chagas disease is therefore a contagious disease.
+
+**False.** Chagas is not contagious because it does not have routine person-to-person spread. Transmission is primarily from the bug itself or oral contamination. 
+
+d\. Epizootic Hemorrhagic disease always causes severe outbreaks in white-trailed deer populations across the US, resulting in high mortalities. 
+
+**False.** EDH varies by place/time. Outbreaks are not always severe. They can be mild or localized also. For example, in the south such as Florida, there are high infection rates annually, but clinical disease is rarely reported. There can also be chronic forms of the disease shown, but low mortality rates. 
+
+e\. White-tailed deer infected with brain worm (*Parelophostrongylus tenuis*) rarely exhibit any symptoms or clinical signs. But infected white-tailed deer pass infectious larvae through their feces. White-tailed deer with brain worms can therefore be described as infected, diseased and infectious. 
+
+**False.** Because white-tailed deer are typically asymptomatic hosts, they are infected and infectious but not usually diseased. 
+
+f\. The deer mouse (*Peromyscus maniculatus*) infected with Sin Nombre Virus  do not show any clinical signs, but excrete the virus in their urine, feces and saliva. Humans get infected via aerosolized droppings of an infected rodent. The illness caused by Sin Nombre virus in humans is called Hantavirus Pulmonary Syndrome (HPS). HPS is therefore a vector-transmitted disease.
+
+**False.** It is not a vector transmitted disease because that describes being bitten, there is no vector involved. HPS is acquired by inhalation. 
+
+ 
+
+2\. Compare and contrast the two measures of frequency of disease: Prevalence and  incidence.                                                                                                                                                 (**5 points**) 
+
+**Prevalence:** This is the number of affected as a proportion of the total population. It is calculated by: #infected/ #N. This is a calculation of how many animals have the disease at a point in time. 
+
+**Incidence:** This is a measure of risk. Includes **only** new cases of disease. It is calculated by the number of new cases divided by the animals at risk of developing the disease.
+
+(Lecture 4) 
+
+3.  Match the following                                                                                                                         (**6 points**)
+
+a\. Infection	**2.**				1.Blackhead disease 
+
+b\. Signs of illness 	**7.** 			2. A pathogen invading host tissues 
+
+c. Brain worm infection in moose **3.**	3. Brain worm in white-tailed deer 
+
+d. Disease caused by virus	 **5.** 		4. β 
+
+e\. Disease caused by protozoa **1.**		5. Rabbit Hemorrhagic disease 
+
+f. Effective contact rate 	**4.**		6. White-nose syndrome
+
+						7. Disease 
+
+(Various Lectures) 
+
+ 4. Moose can get infected by consuming a gastropod infected with *Parelaphostrongylus tenuis* larvae. Infected moose exhibit clinical signs like weakness, incoordination, circling, paralysis, and eventual death. But moose are unable to propagate the parasite. Such hosts are called \_\_\_\_\_\_\_\_\_\_\_\_\_\_.                                                          (**2 points**)
+
+**Dead-End Hosts**
+
+(Lecture 9)
+
+5. 
+
+a\) Calculate the average recovery rate (γ) for Measles. Average infectious period for measles is 8 days.                                                                      				 (**2 points**) 
+
+ γ = 1/8 = **0.125 day \^-1**
+
+b) Calculate the average recovery rate (γ) for Rotavirus. Average infectious period for Rotavirus is1-3 weeks, average of 2 weeks.                                   			 (**2 points**) 
+
+ 
+
+γ = 1/14 = **0.0714 day \^-1**
+
+c\) The R~0~ for measles is estimated at 15 and 17 for rotavirus. Calculate β for both diseases.                                                                                                                                                (**2 points**) 
+
+Measles β= 15 x 0.125= **1.875 day\^-1**
+
+Rotavirus β= 17 x 0.0714= **1.2143 day -1**
+
+d\) Calculate R~eff~ for a measles outbreak in a population with 80% measles vaccination coverage.                                                                                                                                                (**3 points**) 
+
+R~eff~ = 15 x 0.20 = **3**
+
+6\. For any transmissible disease, which of the following host states are possible? (**6 points**)
+
+1.  Infected but not diseased
+
+2.  Infected and diseased
+
+3.  Not infected but diseased
+
+For each state, explain your reasoning and support your answer with at least one example from human or wildlife disease systems. If you believe a particular state is *not possible*, justify why with clear reasoning.
+
+1.  Infected but not diseased **Possible:** Hosts are capable of carrying a pathogen without clinical signs. They could still be able to transmit the pathogen. Example: White tailed deer with brain worm. These Deer are infected with the pathogen, but rarely show any clinical signs.  
+
+2.  Infected and diseased **Possible:** Pathogen is present and causes symptoms present in the host. Example: Deer with EHD. They experience lesions and possibly mortality.  
+
+3.  Not infected but diseased **Not Possible:** This is not possible because in order to be diseased, the pathogen must be present to first infect you. There is no disease without infection. 
+
+4.  
+
+7\. Estimate the incubation period for Campylobacteriosis and Norovirus gastroenteritis from the following Epidemic curves.                                                                                (**4 points**)
+
+     
+
+Campylobacteriosis: **3-4 days**
+
+Norovirus gastroenteritis: **1-2 days**
+
+(Lecture 5)
+
+8\. In 2015, a mass die-off of Saiga antelope occurred in Kazakhstan, resulting in the deaths of over 200,000 animals within a short period. Briefly describe the proximate cause of this extraordinary mortality event and explain how it led to such large-scale deaths. What measures could be implemented to prevent similar mortality events in the future? Finally, discuss broader conservation strategies that could help safeguard Saiga antelopes from extinction due to disease outbreaks.                                                                                       (**20 points**)
+
+The proximate cause was **acute hemorrhage septicemia**. This is a bacterial disease that had been already known and prominent in cattle. It is caused by a bacteria called *Pasteurella multocida.* This pathogen is always present in the nasal cavity. The disease occurs when the animals are stressed and all close together in the heat. In these conditions, the pathogen becomes active. At first, it was not clear what caused the casualties of so many antelope at once. Scientists discovered that there was unusually high humidity at the time of the deaths and females were clustered together giving birth which created stress. 
+
+Because it is a commonsal pathogen, controlling the pathogen is not a possible strategy. Vaccination is also not a possible strategy. The climate is also not a controllable variable. However because the female Saiga antelopes give birth to two calfs at a time, they are able to bounce back at a fast rate. One thing that can be done is preventing poaching and other threats to the population. 
+
+(Lecture 2) 
+
+9\. In his 1933 book *Game Management*, Aldo Leopold dedicated a chapter to wildlife diseases, stating that wildlife disease is primarily an ecological issue driven largely by human actions. Do you agree with this perspective? Explain your reasoning, using at least two examples from wildlife disease systems to support your answer.                   (**6 points**)
+
+**Yes, I agree with this perspective.** Human actions can cause stress and movement between animal populations causing disease to spread. One example of this is white-nose syndrome in bats. This disease is believed to have been introduced by humans in general. Also, the spread of this disease can be amplified by cave visitation from humans which can cause bats to cluster. Another example is CWD in deer. This disease has been worsened by human management such as artificial feeding, captive breeding, and translocation of animals. 
+
+10\. Define R~0~. Estimate R~0~ for the following scenario. Red flamingo represents an infectious case, and blue are susceptibles; an arrow indicates transmission. Explain your findings in the context of real-world utility of R~0~. (**10 points**)    
+
+**R~0~ is the average number of new infections caused by a single infected individual in a fully susceptible population.**
+
+Scenario:
+
+                       R~0~ =  1/1= **1**
+
+------------------------------
+
+           		 R~0~ = 3/1= **3**
+
+            
+
+------------------------------
+
+           		 R~0~ = 	2/1= **2**
+
+ 
+
+------------------------------
+
+ 			 R~0~ = 0/1= **0**
+
+Scenario 1:  R~0~ = 1, this means that the disease is stable 
+
+Scenario 2:  R~0~ \> 1, this means the disease is an expanding epidemic, it will continue to spread 
+
+Scenario 3: R~0~ \> 1, this means the disease is an expanding epidemic, it will continue to spread 
+
+Scenario 4: R~0~ \< 1, this means that the disease is dying out, it will eventually fade
+
+(Lecture 7) 
+
+11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
+
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | Year |   | Population estimate |   | Turtles with fibroma: old cases |   | Turtles with fibroma: new cases |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | 2015 |   | 133                 |   | 0                               |   | 4                               |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | 2016 |   | 125                 |   | 2                               |   | 5                               |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | 2017 |   | 112                 |   | 4                               |   | 8                               |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | 2018 |   | 145                 |   | 5                               |   | 4                               |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   | 2019 |   | 136                 |   | 4                               |   | 2                               |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|   |      |   |                     |   |                                 |   |                                 |   |
++---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+
+Turtles without visible fibroma are considered susceptible to the disease. 
+
+a) Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value.  Show your work.		                                                 (**5 points**) 
+
+2015: 4 / (133−0) = **0.0301 = 3.01%/yr**
+
+2016: 5 / (125−2) = **0.0407 = 4.07%/yr**
+
+2017: 8 / (112−4) = **0.0741 = 7.41%/yr**
+
+2018: 4 / (145−5) = **0.0286 = 2.86%/yr**
+
+2019: 2 / (136−4) = **0.0152 = 1.52%/yr**
+
+**The highest incidence is 2017 at 7.41% per year**
+
+b) When is the prevalence lowest? When is the prevalence highest? Write unit for prevalence if applicable.                                                                                                                   (**5 points**) 
+
+2015: (0+4)/133 = **3.01%**
+
+2016: (2+5)/125 = **5.60%**
+
+2017: (4+8)/112 = **10.71%**
+
+2018: (5+4)/145 = **6.21%**
+
+2019: (4+2)/136 = **4.41%**
+
+**The lowest prevalence: 2015 at 3.01%**
+
+**The highest prevalence: 2017 at 10.71%**
+
+(Lecture 4) 
+
+12\. The Dutch harbor seal population is estimated to be around 5400 with \~50% adults. Seals are susceptible to phocine distemper virus (PDV), but an estimated 40% of the adults in this population are immune to PDV by virtue of prior natural infection. How many seals in this population should be vaccinated in order to achieve herd immunity sufficient to prevent an outbreak of PDV in this population if the R0 is estimated to be \~3? Assume that all the adult seals that have survived prior PDV infection are tagged, and hence identifiable.                                                                                                                                              (**10 points**) 
+
+Adult seals susceptible = 5400/2 =2,700 
+
+48% of adults already immune- 1,080 immune 
+
+R0 \~ 3 = heard immunity 2/3 
+
+Target immune count= 5400 x 2/3 = 3,600
+
+Actual immune needed = 3600-1080=2,520 
+
+**\~2,520 seals should be vaccinated to achieve herd immunity**
