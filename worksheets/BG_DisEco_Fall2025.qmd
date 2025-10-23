@@ -173,19 +173,21 @@ f\. The deer mouse (*Peromyscus maniculatus*) infected with Sin Nombre Virus
 
 3.  Match the following                                                                                                                         (**6 points**)
 
-a\. Infection	**2.**				1.Blackhead disease 
+a\. Infection **2.** 1.Blackhead disease 
 
-b\. Signs of illness 	**7.** 			2. A pathogen invading host tissues 
+b\. Signs of illness **7.** 2. A pathogen invading host tissues 
 
-c. Brain worm infection in moose **3.**	3. Brain worm in white-tailed deer 
+c. Brain worm infection in moose **3.** 3. Brain worm in white-tailed deer 
 
-d. Disease caused by virus	 **5.** 		4. β 
+d. Disease caused by virus **5.** 4. β 
 
-e\. Disease caused by protozoa **1.**		5. Rabbit Hemorrhagic disease 
+e\. Disease caused by protozoa **1.** 5. Rabbit Hemorrhagic disease 
 
-f. Effective contact rate 	**4.**		6. White-nose syndrome
+f. Effective contact rate **4.** 6. White-nose syndrome
 
-						7. Disease 
+```         
+                    7. Disease 
+```
 
 (Various Lectures) 
 
@@ -197,11 +199,11 @@ f. Effective contact rate 	**4.**		6. White-nose syndrome
 
 5. 
 
-a\) Calculate the average recovery rate (γ) for Measles. Average infectious period for measles is 8 days.                                                                      				 (**2 points**) 
+a\) Calculate the average recovery rate (γ) for Measles. Average infectious period for measles is 8 days.                                                                       (**2 points**) 
 
  γ = 1/8 = **0.125 day \^-1**
 
-b) Calculate the average recovery rate (γ) for Rotavirus. Average infectious period for Rotavirus is1-3 weeks, average of 2 weeks.                                   			 (**2 points**) 
+b) Calculate the average recovery rate (γ) for Rotavirus. Average infectious period for Rotavirus is1-3 weeks, average of 2 weeks.                                    (**2 points**) 
 
  
 
@@ -265,21 +267,21 @@ Scenario:
 
                        R~0~ =  1/1= **1**
 
-------------------------------
+------------------------------------------------------------------------
 
-           		 R~0~ = 3/1= **3**
+            R~0~ = 3/1= **3**
 
             
 
-------------------------------
+------------------------------------------------------------------------
 
-           		 R~0~ = 	2/1= **2**
+            R~0~ = 2/1= **2**
 
  
 
-------------------------------
+------------------------------------------------------------------------
 
- 			 R~0~ = 0/1= **0**
+  R~0~ = 0/1= **0**
 
 Scenario 1:  R~0~ = 1, this means that the disease is stable 
 
@@ -293,37 +295,25 @@ Scenario 4: R~0~ \< 1, this means that the disease is dying out, it will eventua
 
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | Year |   | Population estimate |   | Turtles with fibroma: old cases |   | Turtles with fibroma: new cases |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | 2015 |   | 133                 |   | 0                               |   | 4                               |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | 2016 |   | 125                 |   | 2                               |   | 5                               |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | 2017 |   | 112                 |   | 4                               |   | 8                               |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | 2018 |   | 145                 |   | 5                               |   | 4                               |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   | 2019 |   | 136                 |   | 4                               |   | 2                               |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
-|   |      |   |                     |   |                                 |   |                                 |   |
-+---+------+---+---------------------+---+---------------------------------+---+---------------------------------+---+
+|  |  |  |  |  |  |  |  |  |
+|--------|--------|--------|--------|--------|---------|--------|---------|--------|
+|  |  |  |  |  |  |  |  |  |
+|  | Year |  | Population estimate |  | Turtles with fibroma: old cases |  | Turtles with fibroma: new cases |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2015 |  | 133 |  | 0 |  | 4 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2016 |  | 125 |  | 2 |  | 5 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2017 |  | 112 |  | 4 |  | 8 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2018 |  | 145 |  | 5 |  | 4 |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 2019 |  | 136 |  | 4 |  | 2 |  |
+|  |  |  |  |  |  |  |  |  |
 
 Turtles without visible fibroma are considered susceptible to the disease. 
 
-a) Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value.  Show your work.		                                                 (**5 points**) 
+a) Which year has the highest incidence of turtle fibroma? Make sure you write appropriate unit for the incidence value.  Show your work.                                                 (**5 points**) 
 
 2015: 4 / (133−0) = **0.0301 = 3.01%/yr**
 
@@ -368,3 +358,51 @@ Target immune count= 5400 x 2/3 = 3,600
 Actual immune needed = 3600-1080=2,520 
 
 **\~2,520 seals should be vaccinated to achieve herd immunity**
+
+------------------------------------------------------------------------
+
+FORY 7200\
+Oct 15, 2025\
+Worksheet 4: Multihost pathogens, Spillover\
+\
+\
+MERS-CoV\
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels\
+(dromedaries), and direct physical contact with camels can lead to transmission to\
+humans. Limited human-to-human transmission can occur after close contact and has\
+resulted in health care–associated outbreaks. Human MERS-CoV infection can cause\
+severe respiratory illness; approximately 35% of reported MERS cases have died.\
+Distribution of confirmed cases of MERS by place of infection and month of onset, April\
+2012 – September 2025 (European Centre for Disease Prevention and Control)\
+
+Which of the following statements about MERS-CoV are correct? (If incorrect, provide\
+an explanation why the statement is incorrect.)
+
+1.  MERS-CoV is primarily maintained in human populations. (3 points)
+
+    Inccorect. MERS-CoV is maintained in camels, not in humans. Although humans are spillover hosts, they are not the primary host where the disease is maintained.
+
+<!-- -->
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (3 points)
+
+    Correct.
+
+3.  Humans are dead-end hosts for MERS-CoV. (3 points)
+
+    Incorrect. Although humans are not the primary host, they are able to transfer the disease from one human to another in close contact. Because transmission can occur, humans are not dead-end hosts for MERS-CoV.
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately\
+    65%. (3 points)
+
+    Incorrect. The estimated case fatality rate for human MERS-CoV is 35%.
+
+5.  The epidemic curve shows a point source outbreak. (3 points)
+
+    Incorrect. The curve shows many different points of outbreak. There is not one single point source.
+
+6.  Global MERS cases have declined sharply since 2019. Why do you think this\
+    decline occurred? Discuss possible ecological, epidemiological, and behavioral\
+    factors that may have contributed to this trend. (5 points)
+
+It could be possible for many different reasons. Ecologically, there could be increasing immunity among the camels which has reduced the amount of camels that will spread the disease to humans. Epidemiologically, there have been many different improved diagnostic forms that have evolved in recent years. Also, because of the COVID-19 outbreak, hospitals began learning more about containing illnesses and preventing the transmission to other human hosts. The pandemic also reduced travel, so there were fewer people traveling that could have potentially contracted the disease and fewer tourists coming in contact with camels. Behaviorally, transmission would be lowered due to social distancing during the pandemic and increased hygiene such as hand washing and mask wearing. It could also be possible that minimizing contact with camels in general has decreased the spread of MERS-CoV. All together, these are possible ways that there has been such a decline in cases.
