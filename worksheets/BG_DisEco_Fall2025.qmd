@@ -296,7 +296,7 @@ Scenario 4: R~0~ \< 1, this means that the disease is dying out, it will eventua
 11\. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
 |  |  |  |  |  |  |  |  |  |
-|--------|--------|--------|--------|--------|---------|--------|---------|--------|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 |  |  |  |  |  |  |  |  |  |
 |  | Year |  | Population estimate |  | Turtles with fibroma: old cases |  | Turtles with fibroma: new cases |  |
 |  |  |  |  |  |  |  |  |  |
@@ -406,3 +406,35 @@ an explanation why the statement is incorrect.)
     factors that may have contributed to this trend. (5 points)
 
 It could be possible for many different reasons. Ecologically, there could be increasing immunity among the camels which has reduced the amount of camels that will spread the disease to humans. Epidemiologically, there have been many different improved diagnostic forms that have evolved in recent years. Also, because of the COVID-19 outbreak, hospitals began learning more about containing illnesses and preventing the transmission to other human hosts. The pandemic also reduced travel, so there were fewer people traveling that could have potentially contracted the disease and fewer tourists coming in contact with camels. Behaviorally, transmission would be lowered due to social distancing during the pandemic and increased hygiene such as hand washing and mask wearing. It could also be possible that minimizing contact with camels in general has decreased the spread of MERS-CoV. All together, these are possible ways that there has been such a decline in cases.
+
+------------------------------------------------------------------------
+
+FORY 7200\
+Oct 27, 2025\
+Worksheet 5: Community Epidemiology Framework\
+\
+\
+Marburg Virus Outbreak, Rwanda 2024\
+The first person to become infected in the current Marburg virus outbreak in Rwanda\
+probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit\
+bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
+Marburg virus infection were documented, and most of the people infected were health\
+care workers, mainly those who worked in intensive care units.
+
+\
+1. Using the community epidemiology framework developed by Fenton and Pedersen,\
+would you classify this Marburg virus outbreak as a spillover event or an emerging\
+infectious disease? Justify your classification. 5 points
+
+I would classify the Marburg virus outbreak as a spillover event. This is an example of possible outcome number 2 of a spillover where the pathogen invades H2 and can be transmitted but cannot be sustained. This is because the disease comes from a crossover between zoonotic diseases and humans. The Marburg virus was transmitted to humans through infected bats. Because the disease has been contained and mostly infected those who worked in healthcare I do not believe that it can be classified as an emerging infectious disease. If prevention measures are successfully practiced, the disease will not spread any more.
+
+\
+2. What measures could be implemented to reduce the risk of transmission in both\
+community and healthcare settings? 5 points
+
+\
+In the community, it is important that people report any symptoms they are feeling and anyone they came in contact with to prevent transmission. It is also important that people know how to prevent spreading the disease themselves so they can take preventative measures.
+
+In healthcare settings, it is important that clinical trials be done to find out how to treat the disease successfully. It is also important that healthcare workers follow specific guidelines to prevent the disease from spreading to themselves and others.
+
+Together these practices can help to reduce the transmission of diseases to the community.
