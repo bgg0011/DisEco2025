@@ -438,3 +438,48 @@ In the community, it is important that people report any symptoms they are feeli
 In healthcare settings, it is important that clinical trials be done to find out how to treat the disease successfully. It is also important that healthcare workers follow specific guidelines to prevent the disease from spreading to themselves and others.
 
 Together these practices can help to reduce the transmission of diseases to the community.
+
+------------------------------------------------------------------------
+
+Worksheet 6
+
+Instructions:\
+1. Determine Prevalence\
+a. Use the online tool QPweb to calculate the prevalence of Vertico in each\
+pond.\
+b. Report the prevalence as a percentage (e.g., 0.35 → 35%).
+
+Pond 1: Prevalence = 30%
+
+Pond 2: Prevalence = 6.7%
+
+\
+2. Calculate the 95% Confidence Interval (CI)\
+a. Use QPweb to calculate the 95% CI for each prevalence estimate.\
+b. Report the CI values as percentages, rounded meaningfully (e.g., 0.057\
+→ 6%).
+
+Pond 1:
+
+Lower CL= 14%
+
+Upper CL= 53%
+
+Pond 2:
+
+Lower CL= 0.3%
+
+Upper CL= 30%
+
+\
+3. Compare Prevalence Between the Two Ponds\
+a. Perform a Fisher’s exact test to compare the two prevalence values.\
+b. Report the p-value.
+
+p-value= 0.1987
+
+\
+c. State whether the difference is statistically significant.\
+i. If p \< 0.05, the difference is statistically significant
+
+The data is not statistically significant since the p-value is \> than 0.05.
