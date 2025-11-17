@@ -483,3 +483,53 @@ c. State whether the difference is statistically significant.\
 i. If p \< 0.05, the difference is statistically significant
 
 The data is not statistically significant since the p-value is \> than 0.05.
+
+------------------------------------------------------------------------
+
+Worksheet 7
+
+**Nipah Virus**\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+between these two regions and explain how these differences influence the preventive\
+measures recommended in each setting. 8 points
+
+Malaysia:
+
+In Malaysia, the transmission to humans occurred from pigs. The disease was first noticed in 1998 in farmers who worked closely to pigs. The disease did first come from bats, but pigs caused the virus to amplify and spread to humans, although there was minimal human to human transmission.
+
+Bangladesh:
+
+In Bangladesh, there was a different mode of transmission. Date palm sap collection is a very big practice in Bangladesh. They use pots to collect the sap. The transmission occurred directly from bats to humans, through the pots that were used to collect date palm sap. If bat saliva, urine, feces, or other bodily fluids ended up in the sap, humans could ingest it leading to them contracting the disease. In this case, human to human transmission was more common.
+
+Preventative:
+
+In Malaysia, preventative measures should focus on livestock control. There should be practices put in place to prevent bat and pig interactions that could help the pigs to not contract the disease and spread it to humans. In Bangladesh, the focus should be on preventing bats from accessing the date palm sap. This could be done by covering the pots. Also preventing people from consuming raw sap. There should also be prevention in healthcare settings to prevent it from spreading more in both places.
+
+\
+**Avian Reovirus**\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+different transmission routes of ARV and explain which environmental factors favor its\
+transmission. What pathogen characteristics support one of these transmission routes?\
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+its impact on the affected population. 6 points
+
+Transmission routes:
+
+Can be transmitted through vertical or horizontal transmission. Vertical transmission occurs when an infected bird transfers the disease directly into the baby through egg contamination. Horizontal transmission occurs through a fecal-oral route. The environment of overcrowding, poor sanitation, and contaminated food or water sources cause these transmission routes to occur.
+
+Pathogen characteristics:
+
+High temperatures and humidity allow for the pathogen to persist in the environment, allowing for horizontal transmission though fecal-oral transfer. The virus is able to survive long enough to infect new hosts.
+
+Example:
+
+An example of a wild bird disease could be in flocks of birds that travel together and live in close habitats. If one bird is infected, it would be very easy for the entire flock to develop the disease. An example of this is crows especially in the winter months. They can develop a disease called winter mortality that is caused by ARV. Severe inflammation is caused and eventually death.
+
+\
+**Langya henipavirus**\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+classified as a spillover and not a potential EID? 6 points
+
+The likely reservoir host for LayV is shrews. Humans are believed to become infected through zoonotic transmission through direct or indirect contact with infected shrews or other animals through bodily fluids. Most cases occurred in people who were frequently exposed to wild animals. This disease is considered a spillover because there was no evidence of human to human spread. There were a few rare cases of the disease in humans that were localized. There have been no proved cases since 2021, proving that it is a spillover disease. If it was a potential EID, the disease would be sustained in the population.
