@@ -533,3 +533,202 @@ Describe the likely reservoir and transmission route of Langya virus. Why is Lay
 classified as a spillover and not a potential EID? 6 points
 
 The likely reservoir host for LayV is shrews. Humans are believed to become infected through zoonotic transmission through direct or indirect contact with infected shrews or other animals through bodily fluids. Most cases occurred in people who were frequently exposed to wild animals. This disease is considered a spillover because there was no evidence of human to human spread. There were a few rare cases of the disease in humans that were localized. There have been no proved cases since 2021, proving that it is a spillover disease. If it was a potential EID, the disease would be sustained in the population.
+
+------------------------------------------------------------------------
+
+Worksheet 8
+
+I first decided to look at patterns between the different regions. These were the calculations at 95% confidence:
+
+**North:**
+
+Prevalence: 28.6%
+
+Lower CL: 17%
+
+Upper CL: 42.8%
+
+**South:**
+
+Prevalence: 62.8%
+
+Lower CL: 44.7%
+
+Upper CL: 75.9%
+
+**Central**
+
+Prevalence: 64.3%
+
+Lower CL: 37.1%
+
+Upper CL: 84.7%
+
+p-value0.0016
+
+This data shows that the prevalence of *B. procyonis* is very low in the north compared in central and southern regions. This could be due to environmental factros such as temperature. It is interesting that the central region has the highest prevalence. The p value shows that these results are significant because it is less than 0.05.
+
+I also wanted to compare prevalence between male and female raccoons in general to see if there were any patterns:
+
+**Female:**
+
+Prevalence: 64.9%
+
+Lower CL: 48.6%
+
+Upper CL: 78.6%
+
+**Male**
+
+Prevalence: 37.7%
+
+Lower CL: 26.7%
+
+Upper CL: 50%
+
+P value: 0.0087
+
+These results show that the disease is more prevalent in females than in males which is interesting. This means that females are more at risk for contracting the bacteria. The P value also shows that it is significant because it is less than .05. This could be due to behavioral differences in the females compared to males. Females are also closer to their offspring, which could lead to a higher chance of contracting the disease.
+
+I also compared prevalence between male and female in each region to see if they were similar to the trend that was seen in the general male and female results:
+
+**North**
+
+Female:
+
+Prevalence: 38.1%
+
+Lower CL: 19.7%
+
+Upper CL: 59.7%
+
+Male:
+
+Prevalence: 21.4%
+
+Lower CL: 9.8%
+
+Upper CL: 40.9%
+
+**South**
+
+Female:
+
+Prevalence: 100%
+
+Lower CL: 73.6%
+
+Upper CL: 100%
+
+Male:
+
+Prevalence: 50%
+
+Lower CL: 32.6%
+
+Upper CL: 67.4%
+
+**Central**
+
+Female:
+
+Prevalence: 100%
+
+Lower CL: 50%
+
+Upper CL: 100%
+
+Male:
+
+Prevalence: 44.4%
+
+Lower CL: 16.9%
+
+Upper CL: 74.9%
+
+These results show that there is a similar trend between male and females between regions as there is generally between males and females. In all regions, the females have a higher prevalence than the male raccoons. The south and central region females both have 100% prevalence which is very interesting and further supports the idea that females are more likely to be infected.
+
+I compared adults and young adults in general:
+
+Adults:
+
+Prevalence: 51.5%
+
+Lowe CL: 39.7%
+
+Upper CL: 63.3%
+
+Young Adults:
+
+Prevalence: 37.8%
+
+Lowe CL: 23.4%
+
+Upper CL: 54.1%
+
+P-value: 0.2212
+
+These results show that the bacteria is more common in adults than it is in young adults. This could be due to the further development of adults compared to young adults. The p-value is \> than 0.05 which means that these results are not statistically significant.
+
+Next I compared adults and young adults by different regions:
+
+**North** 
+
+Adult: 
+
+Prevalence: 28%
+
+Lower CL: 13.4%
+
+Upper CL: 48%\
+
+Young Adult: 
+
+Prevalence: 29.2%
+
+Lower CL: 13.9%
+
+Upper CL:  50%
+
+**South** 
+
+Adult: 
+
+Prevalence: 67.7%
+
+Lower CL: 50%
+
+Upper CL: 82.9%
+
+\
+Young Adult: 
+
+Prevalence: 50%
+
+Lower CL: 24.3%
+
+Upper CL:  75.7%
+
+**Central:** 
+
+Adult: 
+
+Prevalence: 61.5%
+
+Lower CL: 34.2%
+
+Upper CL: 83.4%
+
+Young Adult: 
+
+Prevalence: 100%
+
+Lower CL: 5%
+
+Upper CL:  100%
+
+\
+These results share a different finding than the general adult vs young adult results. In the north and central regions, the young adults actually have a higher prevalence. In central, there was only one young adult tested which lead to the 100% prevalence. My thought is that if more young adults had been studied, there would be a lower prevalence number. It makes sense that the p-value tells us that these results are not significant. \
+\
+\
+\
