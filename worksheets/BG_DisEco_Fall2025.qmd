@@ -728,7 +728,103 @@ Lower CL: 5%
 Upper CL:  100%
 
 \
-These results share a different finding than the general adult vs young adult results. In the north and central regions, the young adults actually have a higher prevalence. In central, there was only one young adult tested which lead to the 100% prevalence. My thought is that if more young adults had been studied, there would be a lower prevalence number. It makes sense that the p-value tells us that these results are not significant. \
+These results share a different finding than the general adult vs young adult results. In the north and central regions, the young adults actually have a higher prevalence. In central, there was only one young adult tested which lead to the 100% prevalence. My thought is that if more young adults had been studied, there would be a lower prevalence number. It makes sense that the p-value tells us that these results are not significant.\
 \
 \
+\
+
+------------------------------------------------------------------------
+
+Term Project
+
+**To:** 		Florida Department of Public Health 
+
+**From:**   	Brianne Giglio
+
+**Date:**    	November 24, 2025 
+
+**Re:**       	Marburg Virus Disease: Public Health Assessment and Recommendations 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Introduction**
+
+This memo provides insight into Marburg virus disease (MVD).  I will provide an overview of the disease including its clinical presentation, transmission routes, natural reservoir, and geographical distribution. My aim is to inform you of the potential risks that could occur if MVD were to travel to the United States and to present ideas for a response to an outbreak of MVD.
+
+\
+
+**Overview of Marburg Virus Disease and Symptoms**
+
+Orthomarburgvirus marburgense is a species of virus that includes Marburg virus and Ravn virus, the true causes of MVD (WHO, 2025).  The disease first manifests in humans through contact with Rousettus fruit bats. Though outbreak of the disease is rare, it can lead to serious illness. Some symptoms of MVD include: 
+
+-   Fever
+
+-   Headache 
+
+-   Rash 
+
+-   Nausea and Vomiting 
+
+-   Hemorrhaging 
+
+-   Liver Failure
+
+The illness has an incubation period of 2-21 days after the host is infected (CDC, 2025). Symptoms do tend to present very quickly and death can occur rapidly, with most patients passing between 8 and 9 days after symptoms begin. 
+
+\
+
+**Transmission and Spillover Pathways**
+
+Transmission of MVD originally occurs through zoonotic transmission from Rousettus fruit bats to humans. This most frequently occurs from exposure in mines and caves that the fruit bats inhabit, as the bats are the primary reservoir host (Cleveland Clinic).  Humans can become infected through coming into direct contact with the infected bat, their bodily fluids, or even just prolonged exposure. After this initial transmission from animal to human, human to human transmission is also possible. This transmission can occur from direct contact such as bodily fluids and also from indirect contact such as contaminated surfaces. Humans are only able to transmit the disease once symptoms are present. 
+
+\
+
+A spillover event refers to the transmission of a disease from one species to another. Outbreaks of MVD can be referred to as a spillover event, because usually the outbreak is not sustained for an extended period of time in the human population. However, in order to keep it from being sustained, healthcare professionals and the public should know about MVD and ways to prevent the spread. 
+
+\
+
+**Geographical Distribution and Risks to the United States**
+
+Although MVD outbreaks occur most often overseas in countries in Africa, it is possible for the disease to spread to the United States which is a non-endemic region. The fruit bats that carry the disease are not found in the United States, they are found in other countries such as Africa which is why it is more common for an outbreak to begin there. However, with travel the spread could come from human hosts. \
+\
+
+According to the World Health Organization as of November 14, 2025 there is a current outbreak of MVD in Ethiopia. The page was last updated on November 21, 2025 and there are currently 6 confirmed cases with three patients who have already died. (WHO, 2025)  With travel so common, and an incubation period of 2-21 days, MVD could potentially have an outbreak here, especially if someone who came in contact with a confirmed case traveled. If this were to occur, it is important that healthcare officials and the public are aware of the symptoms of the disease so its spread can be contained. 
+
+\
+
+Because the early symptoms of MVD present similarly to other diseases, it is important that tests are done such as ELISA and RT-PCR so the disease can be correctly diagnosed (WHO, 2025).  Although there is not a current outbreak of the disease in the United States, it should still be brought to your attention in case there is an unlikely spread. 
+
+\
+
+**Recommended Response Strategies**
+
+I would like to suggest some response strategies that should be implemented if MVD ever does make its way to the United States.  Once someone is diagnosed with the disease, it is first crucial that anyone who previously came in contact with the patient be monitored because it is likely that they too will have become infected. The public should be made aware that the disease is in the area and take preventative measures themselves to keep safe from MVD spread. The community should also be aware of the symptoms so if they are infected they can receive medical care. 
+
+\
+
+Because human to human transmission is typically limited to close contact, most MVD outbreaks do die out unless healthcare spread occurs.  In the healthcare setting, workers should take extra precautions when treating a MVD patient. If they come in contact with any bodily fluid including blood and saliva they will also become ill. In past outbreaks, it is common for most of the infected to be healthcare professionals because of their close contact to the patient. It is important that precautions are put in place to stop the spread of the disease, and to keep those who work in healthcare safe from contracting the disease themselves. Facilities should have isolation rooms and PPE such as gowns, gloves, face shields, and proper waste disposal. 
+
+**Prevention and Preparedness**
+
+Because Florida is a frequent tourist state and there is a small outbreak occurring right now, it is important that preventative steps are taken to limit the exposure that could occur. Healthcare professionals should constantly be updated on what to do if there is a case of MVD or another highly infectious disease. Staff should be familiar with what protective equipment is essential for cases like this and how to protect themselves and others from promoting the spread of MVD. There should be screening done on travel to assure that no one is able to enter the United States if they have symptoms, or have come in contact with someone who has symptoms. 
+
+\
+
+**Conclusion** 
+
+Although MVD is rare, its ability to spread rapidly in healthcare settings is a cause for concern. By improving surveillance, preparing hospitals and healthcare workers, and monitoring outbreaks Florida and the United States as a whole will be ready should the disease travel here. Early recognition of the disease by observing symptoms and running diagnostics is essential for keeping our community safe. I hope that you consider my response strategies and that this message has been insightful. 
+
+\
+\
+
+**References**
+
+CDC. (2025, September 24). About Marburg. Marburg Virus Disease.[ Retrieved ](https://www.cdc.gov/marburg/about/index.html)November 24, 2025, from[ ](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease)<https://www.cdc.gov/marburg/about/index.html>
+
+Marburg virus disease. (n.d.-a). Retrieved November 24, 2025, from[ https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease)
+
+Marburg Virus Disease. (n.d.-b). Cleveland Clinic. Retrieved November 24, 2025, from[ https://my.clevelandclinic.org/health/diseases/25097-marburg-virus-disease](https://my.clevelandclinic.org/health/diseases/25097-marburg-virus-disease)
+
+Marburg virus disease- Ethiopia. (n.d.). Retrieved November 24, 2025, from[ https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON585](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON585)
+
 \
