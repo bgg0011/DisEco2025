@@ -737,13 +737,13 @@ These results share a different finding than the general adult vs young adult re
 
 Term Project
 
-**To:** 		Florida Department of Public Health 
+**To:** Florida Department of Public Health 
 
-**From:**   	Brianne Giglio
+**From:**   Brianne Giglio
 
-**Date:**    	November 24, 2025 
+**Date:**    November 24, 2025 
 
-**Re:**       	Marburg Virus Disease: Public Health Assessment and Recommendations 
+**Re:**       Marburg Virus Disease: Public Health Assessment and Recommendations 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -785,7 +785,7 @@ A spillover event refers to the transmission of a disease from one species to an
 
 **Geographical Distribution and Risks to the United States**
 
-Although MVD outbreaks occur most often overseas in countries in Africa, it is possible for the disease to spread to the United States which is a non-endemic region. The fruit bats that carry the disease are not found in the United States, they are found in other countries such as Africa which is why it is more common for an outbreak to begin there. However, with travel the spread could come from human hosts. \
+Although MVD outbreaks occur most often overseas in countries in Africa, it is possible for the disease to spread to the United States which is a non-endemic region. The fruit bats that carry the disease are not found in the United States, they are found in other countries such as Africa which is why it is more common for an outbreak to begin there. However, with travel the spread could come from human hosts.\
 \
 
 According to the World Health Organization as of November 14, 2025 there is a current outbreak of MVD in Ethiopia. The page was last updated on November 21, 2025 and there are currently 6 confirmed cases with three patients who have already died. (WHO, 2025)  With travel so common, and an incubation period of 2-21 days, MVD could potentially have an outbreak here, especially if someone who came in contact with a confirmed case traveled. If this were to occur, it is important that healthcare officials and the public are aware of the symptoms of the disease so its spread can be contained. 
@@ -819,12 +819,77 @@ Although MVD is rare, its ability to spread rapidly in healthcare settings is a 
 
 **References**
 
-CDC. (2025, September 24). About Marburg. Marburg Virus Disease.[ Retrieved ](https://www.cdc.gov/marburg/about/index.html)November 24, 2025, from[ ](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease)<https://www.cdc.gov/marburg/about/index.html>
+CDC. (2025, September 24). About Marburg. Marburg Virus Disease.[Retrieved](https://www.cdc.gov/marburg/about/index.html)November 24, 2025, from[ ](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease)<https://www.cdc.gov/marburg/about/index.html>
 
-Marburg virus disease. (n.d.-a). Retrieved November 24, 2025, from[ https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease](https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease)
+Marburg virus disease. (n.d.-a). Retrieved November 24, 2025, from<https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease>
 
-Marburg Virus Disease. (n.d.-b). Cleveland Clinic. Retrieved November 24, 2025, from[ https://my.clevelandclinic.org/health/diseases/25097-marburg-virus-disease](https://my.clevelandclinic.org/health/diseases/25097-marburg-virus-disease)
+Marburg Virus Disease. (n.d.-b). Cleveland Clinic. Retrieved November 24, 2025, from<https://my.clevelandclinic.org/health/diseases/25097-marburg-virus-disease>
 
-Marburg virus disease- Ethiopia. (n.d.). Retrieved November 24, 2025, from[ https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON585](https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON585)
+Marburg virus disease- Ethiopia. (n.d.). Retrieved November 24, 2025, from<https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON585>
 
 \
+
+------------------------------------------------------------------------
+
+Worksheet 9
+
+1\. In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in\
+the United States. What specific human behaviors contributed to the zoonotic\
+spread of Salmonella? In your response, identify at least three practices by backyard\
+poultry owners that increased the risk of Salmonella transmission, and briefly explain\
+why these behaviors facilitated human infection. 10 points
+
+One example of this is having children present in the home. If there are children constantly cuddling or playing with the birds, there is a high risk that they could become infected with the disease. It is important that if you have backyard poultry and children you limit the contact that your children have with the birds or they could develop salmonella or other diseases. 
+
+Another example of this is poor disinfectant practices. In commercial poultry, they are able to identify and prevent disease spread rapidly and also keep things such as soil and water supplies from becoming contaminated. They also usually vaccinate the poultry. This does not occur in backyard poultry. It is likely that disease could be spread through the soil because the owners are not aware of how to correctly disinfect or control disease. Humans can come in contact with this soil or water and then contract the disease. 
+
+Another practice is the eggs that the poultry produce. This is usually why people have backyard poultry. If humans come in contact with the eggs without properly sanitizing them they can contract salmonella. It is important that proper sanitary measures are in place but that is not always the case. 
+
+\
+2. Tall fescue grass is commonly infected with a fungal endophyte (Epichloë\
+coenophiala) that produces ergot alkaloids associated with fescue toxicosis in\
+grazing livestock.
+
+\
+a. What advantage does Tall fescue gain from being infected with a fungal\
+endophyte? 3 points
+
+Some advantages that tall fescue gained was increased tolerance to environmental stress like droughts and the ability to outcompete other species because of its tolerance to overgrazing. 
+
+\
+b. What environmental and ecological factors drive the occurrence and severity of\
+fescue toxicosis in grazing systems? 4 points
+
+Some factors include temperature and drought stress, soil fertility, microbial communities, and grazing management. 
+
+\
+c. What are the key clinical signs of fescue toxicity in cattle? 3 points
+
+The key clinical signs include excessive weight loss, rough and discolored hair coats, and poor performance. 
+
+------------------------------------------------------------------------
+
+Worksheet 10 
+
+1\. What are the different routes of transmission for African Swine fever? What role do\
+humans play in the spread and transmission of ASF? 10 points
+
+There are several different routes of transmission of ASF. The first is through the vector borne ticks. These ticks are able to spread the disease through the pigs as they take blood from infected hosts and transfer it to other pigs. The disease can also transmit directly from pig to pig though bodily fluids such as blood, saliva, and feces. Indirect contact also plays a role as feed, transport equipment, and even clothes can allow for the transmission of the disease. Humans can act as mechanical vectors by transporting the disease via clothing or equipment to other farms or other pigs, however they are not biological hosts. 
+
+\
+
+\
+2. Describe how co-infection with Koala retrovirus (KoRV) affects the severity,\
+progression, and management of Chlamydia in koalas. 10 points
+
+Co-infection of koalas with KoRV and chlamydia has several effects. KoRV is a virus that acts similarly to HIV in humans. It suppresses the immune system in koalas and allows for chlamydia to present with even worse symptoms and be more prevalent. The co-infection of KoRV and chlamydia in koalas causes higher mortality and infertility rates. 
+
+\
+
+\
+3. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging\
+threat to wild snake populations in North America.\
+What are the key challenges associated with the surveillance and management of\
+Snake Fungal Disease (SFD)? 10 points
+
+The key challenges of SFD include the fact that snake fungal disease is often difficult to control in the environment. The fungus is able to survive in soil which makes it hard to get rid of it especially because that is where snakes move and inhabit. There are also diagnostic challenges that occur which cause poor surveillance of SFD. The qPCR used to diagnose snakes with SFD can often give false negatives. These challenges allow for the persistence of SFD in the environment and throughout snake populations.
